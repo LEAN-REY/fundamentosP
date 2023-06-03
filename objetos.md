@@ -1,6 +1,7 @@
 #  QUE ES JSON 
 --- 
 
-Los datos mandan. Pero saber cómo trabajar con múltiples datos se ha convertido en un aspecto aún más importante. Los programadores, desarrolladores y profesionales de TI necesitan tener la capacidad de transferir estructuras de datos desde cualquier lenguaje a formatos reconocibles por otros lenguajes y plataformas. JavaScript Object Notation (JSON) es el formato de cambio de datos que lo hace posible.
+JSON es un formato de texto que forma parte del sistema de JavaScript y que se deriva de su sintaxis, pero no tiene como objetivo la creación de programas, sino el acceso, almacenamiento e intercambio de datos. Usualmente es conocido como una alternativa al lenguaje XML.
 
-JSON se ha convertido en un formato de datos popular entre los desarrolladores debido a que su texto es legible por humanos, es ligero, requiere menos codificación y se procesa más rápido.
+# ¿Para qué sirve un archivo JSON?
+Un archivo JSON es un documento digital creado en este lenguaje que almacena información organizada, con el fin de hacer más simple su búsqueda y acceso. La ventaja de este formato es que permite obtener código legible para las personas con nombres y valores que funcionan como indicadores de la información que contienen.
